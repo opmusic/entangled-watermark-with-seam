@@ -1,6 +1,6 @@
 # Entangled Watermarks as a Defense against Model Extraction
 
-This repository is an implementation of the paper [Entangled Watermarks as a Defense against Model Extraction](https://PLACEHOLDER). In this repository, we show how to train a watermarked DNN model that is robust against model extraction. The high-level idea is that a special watermark is designed such that it could be used to verify the owenrship of the model if it is stolen by model extraction. For more details, please read the paper.
+This repository is an implementation of the paper [Entangled Watermarks as a Defense against Model Extraction](https://arxiv.org/abs/2002.12200),	published in 30th USENIX Security Symposium. In this repository, we show how to train a watermarked DNN model that is robust against model extraction. The high-level idea is that a special watermark is designed such that it could be used to verify the owenrship of the model if it is stolen by model extraction. For more details, please read the paper.
 
 We test our code on five datasets: MNIST, Fashion-MNIST, Google Speech Commands (10-classes), CIFAR-10, and CIFAR-100.
 
